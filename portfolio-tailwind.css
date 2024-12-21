@@ -1,0 +1,4 @@
+.skills:hover > .skill:not(:hover){
+    filter: blur(10px);
+    transform: scale(0.9);
+}ski
